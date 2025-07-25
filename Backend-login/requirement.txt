@@ -1,5 +1,0 @@
-flask
-flask_bcrypt
-flask_cors
-flask_sqlalchemy
-uuid
