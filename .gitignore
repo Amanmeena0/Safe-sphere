@@ -56,8 +56,8 @@ htmlcov/
 .cache/
 
 # Submodules and embedded repositories
-backend-fetching/
-frontend/
+
+
 
 # ChromaDB and large vector database files
 chroma_langchain_db/
