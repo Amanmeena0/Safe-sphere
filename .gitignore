@@ -56,7 +56,6 @@ htmlcov/
 .cache/
 
 # Submodules and embedded repositories
-client/
 backend-fetching/
 frontend/
 
